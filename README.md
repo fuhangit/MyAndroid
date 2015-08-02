@@ -1,2 +1,0 @@
-# MyAndroid
-test git
